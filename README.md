@@ -15,7 +15,7 @@ to fine-tune the two GPT2 models from OpenAI : the 355M model & the 124M model, 
 
 ## Instructions :
 1- Clone the repository
-2- Download the cleaned movielens dataset from this link : https://drive.google.com/drive/folders/1ZGp7ORu9nA6l3PyNK_H0MGTXNl4sNMsA , rename it to "movies.csv" and put it on the same folder with IPYNB files.
-3- Download the wikipedia movies dataset from this link : https://www.kaggle.com/jrobischon/wikipedia-movie-plots , rename it to "wiki_movie_plots_deduped.csv" and put it on the same folder with IPYNB files.
-4- run the "clean_datasets_wiki_&_MovieLens.ipynb" file , to get the final with which you finetune the GPT2 model.
-5- run "gpt2_355.ipynb" & "gpt2_124.ipynb" files to finetune the 355M and the 124M GPT2 models respectively 
+<br /> 2- Download the cleaned movielens dataset from this link : https://drive.google.com/drive/folders/1ZGp7ORu9nA6l3PyNK_H0MGTXNl4sNMsA , rename it to "movies.csv" and put it on the same folder with IPYNB files.
+<br /> 3- Download the wikipedia movies dataset from this link : https://www.kaggle.com/jrobischon/wikipedia-movie-plots , rename it to "wiki_movie_plots_deduped.csv" and put it on the same folder with IPYNB files.
+<br /> 4- run the "clean_datasets_wiki_&_MovieLens.ipynb" file , to get the final with which you finetune the GPT2 model.
+<br /> 5- run "gpt2_355.ipynb" & "gpt2_124.ipynb" files to finetune the 355M and the 124M GPT2 models respectively 
