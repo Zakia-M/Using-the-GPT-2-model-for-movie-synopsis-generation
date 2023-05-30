@@ -9,8 +9,8 @@ used to fine-tune the two GPT2 models from OpenAI : the 355M model & the 124M mo
 
 The motivation behind this project is the involvement of AI in the making of films by generating and offering producers synopses that can be interpreted and turned into films.
 
-![gpt2](https://github.com/Zakia-M/Using-the-GPT-2-model-for-movie-synopsis-generation/assets/76746908/990f5fbf-c8e9-4c31-b4d3-7ea06ecff096)
-![openai](https://github.com/Zakia-M/Using-the-GPT-2-model-for-movie-synopsis-generation/assets/76746908/6212fd22-93ce-4cc5-bac1-57d26dacbb07)
+![gpt-generation](https://github.com/Zakia-M/Using-the-GPT-2-model-for-movie-synopsis-generation/assets/76746908/037e5479-b659-4a38-8ae6-3d3e753aadb7)
+
 
 
 
