@@ -1,10 +1,15 @@
 ### Using the GPT-2 model for movie synopsis generation -Description- 
 
+One of the branches of artificial intelligence that has received the most attention recently is Natural Language Processing (NLP). Concretely, it is its application to the automatic generation of text that has been the subject of a large number of projects, in particular summarizing texts, automatic translation, answering questions and completing texts.
+The objective of this project is to exploit the potential of one of the most powerful tools in this field: the OpenAI GPT-2 model, to build a system for generating film synopses based on two large datasets known worldwide, available on both platforms: IMDB and Wikipedia :
 
-For my master thesis, I have used movies synopsis from two large Kaggle movies datasets :<br />
 <br /> ----- Wikipedia Movie Plots (~35,000 movies descriptions): https://www.kaggle.com/jrobischon/wikipedia-movie-plots 
 <br /> ----- The Movies Dataset (Metadata on over 45,000 movies from MovieLens): https://www.kaggle.com/rounakbanik/the-movies-dataset/data, ((where the cleaned dataset for movieLens dataset is on this link : https://drive.google.com/drive/folders/1ZGp7ORu9nA6l3PyNK_H0MGTXNl4sNMsA ))<br /><br />
-to fine-tune the two GPT2 models from OpenAI : the 355M model & the 124M model, by using the gpt-2-simple library (https://github.com/minimaxir/gpt-2-simple).
+
+used to fine-tune the two GPT2 models from OpenAI : the 355M model & the 124M model, by using the gpt-2-simple library (https://github.com/minimaxir/gpt-2-simple).
+
+The motivation behind this project is the involvement of AI in the making of films by generating and offering producers synopses that can be interpreted and turned into films.
+
 
 
 ## Instructions :
